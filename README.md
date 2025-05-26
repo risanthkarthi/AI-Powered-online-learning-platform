@@ -11,26 +11,7 @@ An intelligent, scalable backend system for an e-learning platform. It provides 
 - Hibernate (JPA)  
 - RESTful API  
 - AI-based Recommendation Engine (custom logic)
-
----
-
-## 📁 Project Structure
-
-
-src/
-├── main/
-│ ├── java/com/elearning/
-│ │ ├── controller/
-│ │ ├── model/
-│ │ ├── repository/
-│ │ ├── service/
-│ │ ├── security/
-│ │ └── recommendation/
-│ └── resources/
-│ ├── application.properties
-│ └── schema.sql
-
-
+  
 ---
 
 ## 🚀 Features
